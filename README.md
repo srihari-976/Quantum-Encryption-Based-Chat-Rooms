@@ -6,7 +6,7 @@
 
 🚀 **Check out the live version of Quantum-Encryption-tool!** 🚀
 
-[![Live Application](https://img.shields.io/badge/Live%20Application-Click%20Here-brightgreen)](https://hamsters-e44048193-srihariramesh2004s-projects.vercel.app/)
+[![Live Application](https://img.shields.io/badge/Live%20Application-Click%20Here-brightgreen)](https://hamsters-phi.vercel.app/)
 
 
 ## Overview
